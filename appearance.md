@@ -1,12 +1,14 @@
 # Appearance modeling
 
 
-## Py
+## Physically Based Rendering
+
+
 
 
 ## Papers
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgxOTYxNzgsMTA1MjM2NjM3OF19
+eyJoaXN0b3J5IjpbLTU1ODU2MDQwNCwxMDUyMzY2Mzc4XX0=
 -->
