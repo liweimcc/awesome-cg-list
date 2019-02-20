@@ -4,6 +4,9 @@
 ## Physically Based Rendering
 
 
+## Code  & dataset
+Two-shot SVBRDF capture for stationary materials.
+
 
 
 
@@ -14,5 +17,5 @@
 - 3D object manipulation in a single photograph using stock 3D models
 - Principles of Appearance Acquisition and Representation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTk0NTIxOCwxMDUyMzY2Mzc4XX0=
+eyJoaXN0b3J5IjpbLTEzODU2ODY5NiwxMDUyMzY2Mzc4XX0=
 -->
