@@ -13,6 +13,7 @@ http://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/
 - Sparse-as-possible SVBRDF acquisition
 - 3D object manipulation in a single photograph using stock 3D models
 - Principles of Appearance Acquisition and Representation
+- Appearance Modeling via Proxy-to-Image Alignment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI2MjkzOTIsMTA1MjM2NjM3OF19
+eyJoaXN0b3J5IjpbMzkzODY5NDQzLDEwNTIzNjYzNzhdfQ==
 -->
