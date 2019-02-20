@@ -5,8 +5,6 @@
 Two-shot SVBRDF capture for stationary materials.
 http://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/
 
-
-
 ## Papers
 
 - Appearance-from-motion: Recovering spatially varying surface reflectance under unknown lighting
@@ -15,5 +13,5 @@ http://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/
 - Principles of Appearance Acquisition and Representation
 - Appearance Modeling via Proxy-to-Image Alignment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzODY5NDQzLDEwNTIzNjYzNzhdfQ==
+eyJoaXN0b3J5IjpbLTIwMDE4MDg1NDUsMTA1MjM2NjM3OF19
 -->
